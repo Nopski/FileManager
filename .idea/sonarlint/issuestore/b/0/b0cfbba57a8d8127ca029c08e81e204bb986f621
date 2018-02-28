@@ -1,0 +1,16 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦Åù§ùÿÿÿÿ8Ë±Üã,
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹õ’´ùÿÿÿÿ8ßŠÏã,
+Vsquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Çßãã,
+gsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ8Çßãã,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(³«Ë8Çí˜ä,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(À8Çí˜ä,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(°£Ö‹üÿÿÿÿ8Çí˜ä,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(”×™â8Ç¾Ÿä,
+psquid:S1450"TRemove the "enter" field and declare it as a local variable in the relevant methods.(ı¾…Ø8Ä¯¡ä,
+1squid:S1220""Move this file to a named package.

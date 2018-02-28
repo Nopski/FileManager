@@ -1,0 +1,17 @@
+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÂŸ–Ï8Âû¢ß,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(„ƒØþ8Âû¢ß,
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(”×™â
+1squid:S1220""Move this file to a named package.
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(÷¤ÆÅøÿÿÿÿ8Âû¢ß,
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(àÝÎŒúÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(àÝÎŒúÿÿÿÿ
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ó°“Òúÿÿÿÿ8Âû¢ß,
+msquid:S1450"XRemove the "enterFile" field and declare it as a local variable in the relevant methods.(õ˜²í
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(àÝÎŒúÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ùÄûšþÿÿÿÿ
